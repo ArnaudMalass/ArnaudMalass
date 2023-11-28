@@ -1,8 +1,8 @@
 # Hi i'm Arnaud 👋
 
-Actuellement étudiant pour devenir developpeur web dans l'école O'clock.
-Je suis une formation de *"Développeur web et web mobile spécialisé en accessibilité numérique :accessibility:"*.
-(formation de 11 mois avec un projet tutoré de deux mois et un stage de deux mois.
+Actuellement étudiant pour devenir developpeur web dans l'école O'clock.  
+Je suis une formation de *"Développeur web et web mobile spécialisé en accessibilité numérique :accessibility:"*.  
+(formation de 11 mois avec un projet tutoré de deux mois et un stage de deux mois.  
 Ceci est une reconversion professionnelle.
 
 
