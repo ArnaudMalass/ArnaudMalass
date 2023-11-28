@@ -11,5 +11,5 @@ Ceci est une reconversion professionnelle.
 
 
 ## Mes stats
-[![Les Stats GitHub de Arnaud](https://github-readme-stats.vercel.app/api?username=ArnaudMalass)](https://github.com/ArnaudMalass/github-readme-stats)
+[![Les Stats GitHub de Arnaud](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudMalass&layout=compact)](https://github.com/ArnaudMalass/github-readme-stats)
 
